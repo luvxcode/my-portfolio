@@ -48,11 +48,9 @@ const Banner = () => {
                     <p className="banner-description slide-up-and-fade mt-6 text-lg text-muted-foreground">
                         Hi! I&apos;m{' '}
                         <span className="font-medium text-foreground">
-                            Tajmirul
+                            Love Sharma
                         </span>
-                        . A creative Frontend Developer with 3+ years of
-                        experience in building high-performance, scalable, and
-                        responsive web solutions.
+                        . A 3rd year B.Tech CSE student specializing in cybersecurity and full-stack development, experienced in building secure, production-grade web applications.
                     </p>
                     <Button
                         as="link"
@@ -76,15 +74,15 @@ const Banner = () => {
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            3+
+                            3rd
                         </h5>
                         <p className="text-muted-foreground">
-                            Years of Experience
+                            Year CSE Student
                         </p>
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            7+
+                            4+
                         </h5>
                         <p className="text-muted-foreground">
                             Completed Projects
@@ -92,9 +90,9 @@ const Banner = () => {
                     </div>
                     <div className="slide-up-and-fade">
                         <h5 className="text-3xl sm:text-4xl font-anton text-primary mb-1.5">
-                            10K+
+                            100%
                         </h5>
-                        <p className="text-muted-foreground">Hours Worked</p>
+                        <p className="text-muted-foreground">Security Focused</p>
                     </div>
                 </div>
             </div>

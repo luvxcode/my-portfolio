@@ -67,24 +67,16 @@ const AboutMe = () => {
                 <div className="grid md:grid-cols-12 mt-9">
                     <div className="md:col-span-5">
                         <p className="text-5xl slide-up-and-fade">
-                            Hi, I&apos;m Tajmirul.
+                            Hi, I&apos;m Love Sharma.
                         </p>
                     </div>
                     <div className="md:col-span-7">
                         <div className="text-lg text-muted-foreground max-w-[450px]">
                             <p className="slide-up-and-fade">
-                                I&apos;m a frontend web developer dedicated to
-                                turning ideas into creative solutions. I
-                                specialize in creating seamless and intuitive
-                                user experiences.
+                                I&apos;m a Full Stack Developer with a cybersecurity specialization, experienced in building secure, production-grade web applications. I am currently a 5th year student in B.Tech Computer Science and Engineering.
                             </p>
                             <p className="mt-3 slide-up-and-fade">
-                                My approach focuses on creating scalable,
-                                high-performing solutions tailored to both user
-                                needs and business objectives. By prioritizing
-                                performance, accessibility, and responsiveness,
-                                I strive to deliver experiences that not only
-                                engage users but also drive tangible results.
+                                Skilled at designing systems with security built in from the ground up – secure authentication, encrypted data handling, vulnerability assessment, and hardened REST APIs – rather than bolted on afterward.
                             </p>
                         </div>
                     </div>
