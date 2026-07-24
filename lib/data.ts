@@ -11,8 +11,8 @@ export const GENERAL_INFO = {
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: '' },
-    { name: 'linkedin', url: '' },
+    { name: 'github', url: 'https://github.com/luvxcode' },
+    { name: 'linkedin', url: 'https://www.linkedin.com/in/love-sharma-590aa8392?utm_source=share_via&utm_content=profile&utm_medium=member_android' },
     { name: 'facebook', url: '' },
 ];
 
